@@ -6,7 +6,6 @@ def valid_move?(board, position)
   else 
      false
   end 
-  
 end
   
  
